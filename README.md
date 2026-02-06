@@ -12,7 +12,7 @@ The output is a real, deployable Instagram Reel ad created for
 
 ---
 
-## 🎯 Project Objective
+## 🎯 Task 2 – Prompt Engineering Assignment (Future Interns)
 
 To build an **AI-powered prompt system** that can:
 
