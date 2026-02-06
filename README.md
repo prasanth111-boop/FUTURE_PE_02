@@ -12,15 +12,21 @@ The output is a real, deployable Instagram Reel ad created for
 
 ---
 
-## 🎯 Task 2 – Prompt Engineering Assignment (Future Interns)
+## 🎯 Prompt Engineering Task 2 – Future Interns (2026)
+AI Content Marketing using UGC Ads
 
-To build an **AI-powered prompt system** that can:
+This project was completed as part of **Prompt Engineering Task 2 (2026)**
+by **Future Interns**.
 
-- Generate authentic UGC-style video ads
-- Create multiple clips for the same product
-- Follow proven ad frameworks (Hook → Problem → Solution → CTA)
-- Adapt to local businesses and platforms
-- Produce content ready for paid advertising
+The goal of the task was to design an AI-powered prompt system capable of
+generating high-converting **UGC-style paid ads** that feel real, human,
+and platform-native.
+
+The system demonstrates how AI can be used to:
+- Generate short UGC-style ad scripts
+- Create multiple hooks for the same business
+- Follow proven ad frameworks (Problem → Solution → CTA)
+- Produce content ready for Instagram Reels, Ads & Shorts
 
 ---
 
